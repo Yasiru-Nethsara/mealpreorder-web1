@@ -1,7 +1,7 @@
 import { Button } from "@/components/ui/button";
 import { Link } from "wouter";
 import { ArrowRight, CheckCircle } from "lucide-react";
-import heroImage from "@assets/generated_images/Happy_travelers_road_trip_van_b84b6c81.png";
+import heroImage from "@assets/generated_images/Happy_travelers_road_trip_van_b84b6c81.svg";
 
 export default function HeroSection() {
   return (

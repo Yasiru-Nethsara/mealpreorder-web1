@@ -1,8 +1,6 @@
 import { Link } from "wouter";
-import { MapPin, Mail, Phone } from "lucide-react";
+import { MapPin } from "lucide-react";
 import { SiFacebook, SiX, SiInstagram, SiLinkedin } from "react-icons/si";
-import { Input } from "@/components/ui/input";
-import { Button } from "@/components/ui/button";
 
 export default function Footer() {
   return (

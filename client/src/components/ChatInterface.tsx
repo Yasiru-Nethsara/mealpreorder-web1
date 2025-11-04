@@ -24,7 +24,6 @@ interface ChatInterfaceProps {
 
 export default function ChatInterface({
   messages,
-  currentUserId,
   otherUserName,
   otherUserPhoto,
   onSendMessage,

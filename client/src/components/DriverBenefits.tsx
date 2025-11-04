@@ -2,7 +2,7 @@ import { Button } from "@/components/ui/button";
 import { Card } from "@/components/ui/card";
 import { Link } from "wouter";
 import { DollarSign, Calendar, Shield, TrendingUp } from "lucide-react";
-import driverImage from "@assets/generated_images/Professional_driver_with_modern_van_e940ad5d.png";
+import driverImage from "@assets/generated_images/Professional_driver_with_modern_van_e940ad5d.svg";
 
 const benefits = [
   {
